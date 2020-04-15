@@ -12,7 +12,8 @@ public class OddsAndEvens {
                 "Once you have chosen your side, you each choose a number of fingers to play- 0 to 5. \n" +
                 "The winner is determined by whether the sum of your fingers is odd or even (depending on what you chose).\n" +
                 "For example, let’s say you choose \"evens\". That means the computer gets \"odds\". \n" +
-                "You choose to play 2 fingers and the computer plays 3. 2 + 3 = 5, which is odd so the computer wins.\n");
+                "You choose to play 2 fingers and the computer plays 3. 2 + 3 = 5, which is odd so the computer wins.\n" +
+                "Let's Play!\n");
         System.out.println("\n---------------------------------------------\n");
         System.out.print("What is your name? ");
         String name = input.nextLine();
